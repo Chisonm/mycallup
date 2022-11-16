@@ -21,12 +21,12 @@
                 <ul>
                     <li data-index="rs-82" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                         data-hideslideonmobile="off" data-easein="Power4.easeOut" data-easeout="Power4.easeOut"
-                        data-masterspeed="1000" data-thumb="../../assets/images/waterfal-100x50.jpg" data-rotate="0"
+                        data-masterspeed="1000" data-thumb="{{ asset('../../assets/images/waterfal-100x50.jpg') }}" data-rotate="0"
                         data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3=""
                         data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
                         data-param10="" data-description="" data-slicey_shadow="0px 0px 50px 0px transparent">
 
-                        <img src="assets/images/banner_slider.jpg" alt="" data-bgposition="center center"
+                        <img src="{{ asset('assets/images/banner_slider.jpg') }}" alt="" data-bgposition="center center"
                             data-kenburns="on" data-duration="7000" data-ease="Linear.easeNone" data-scalestart="100"
                             data-scaleend="150" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0"
                             data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
@@ -78,7 +78,7 @@
                         data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
                         data-param10="" data-description="">
 
-                        <img src="assets/images/banner_slider_2.jpg" alt="" data-bgposition="center center"
+                        <img src="{{ asset('assets/images/banner_slider_2.jpg') }}" alt="" data-bgposition="center center"
                             data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
                             data-no-retina>
 
@@ -315,7 +315,7 @@
 
 
                     <div class="forklift-image wow slideInLeft" data-wow-duration="0" data-wow-delay="0s">
-                        <img src="assets/images/forklift_Image.png" alt="">
+                        <img src="{{ asset('assets/images/forklift_Image.png') }}" alt="">
                     </div>
 
                 </div>
