@@ -2,10 +2,8 @@
 
 namespace App\Notifications;
 
-use App\Mail\MailReceived as MailReceivedMail;
 use Illuminate\Bus\Queueable;
 use Illuminate\Notifications\Notification;
-use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Notifications\Messages\MailMessage;
 
 class MailReceived extends Notification
@@ -44,10 +42,10 @@ class MailReceived extends Notification
     public function toMail($notifiable)
     {
         return (new MailMessage)
-                    // ->to($this->data['email'])
-                    ->from('info@mycallup.com', 'Sender')
-                    ->line('The introduction to the notification.')
-                    ->action('Notification Action', url('/'))
+                    ->from('info@mycallup.com', 'Mycallup')
+                    ->greeting('Hello '.$this->data['name'])
+                    ->line('we received your message and will get back to you soon.')
+                    ->action('check our service', url('/services'))
                     ->line('Thank you for using our application!')
                     ->subject($this->data['subject']);
     }
