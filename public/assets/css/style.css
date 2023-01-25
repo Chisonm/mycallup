@@ -24,9 +24,9 @@ img{
 }
 :root {
     scroll-behavior: inherit;
-    --primary-color: #666666;
-    --secondary-color: #666666;
-    --main-dark-color: #666;
+    --primary-color: #FD8704;
+    --secondary-color: #364653;
+    --main-dark-color: #242135;
     --bg-light-theme: #fef9f5;
     --bg-white: #FFF;
     --bg-light-gray: #fafafa;

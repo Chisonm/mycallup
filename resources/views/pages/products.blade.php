@@ -7,7 +7,7 @@
         <div class="row align-items-center">
             <div class="col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                 <h2 class="mb-4 fw-7 txt-blue">
-                    Callup
+                    Call Up - TRAFFIC MGT APP
                 </h2>
                 <p>We aim at building cutting edge solutions to mobility and truck gridlock issues. We provide a smart
                     city system by integrating into truck mobility to render services like no other across the nation.
@@ -33,7 +33,7 @@
             </div>
             <div class="col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                 <h2 class="mb-4 fw-7 txt-blue">
-                    Callup
+                    Call Up - AGGREGATOR HUB
                 </h2>
                 <p>We aim at building cutting edge solutions to mobility and truck gridlock issues. We provide a smart
                     city system by integrating into truck mobility to render services like no other across the nation.

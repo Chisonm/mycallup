@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    <section class="wide-tb-100 pb-0 mb-5">
+    <section class="wide-tb-100 pb-0 mb-3">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -92,6 +92,169 @@
                     </div>
                 </div>
 
+            </div>
+        </div>
+    </section>
+    <section class="wide-tb-100 pb-0 mb-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="h1-sm fw-6 txt-blue mb-4">Park Owners</h3>
+                </div>
+                <div class="theme-collapse arrow-right-border">
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What are the requirements for a park operator
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Minimum of XXX truck parking bays</li>
+                                <li>(2) Access Control</li>
+                                <li>(3) Toilets & Showers</li>
+                                <li>(4) CCTv</li>
+                                <li>(5) 24-hour power supply</li>
+                                <li>(6) 24-hour Security</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What are the safety requirements to be licenced as a park under your portfolio
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Minimum of XXX truck parking capacity with circulation space</li>
+                                <li>(2) Access Control compatible with Pregate Access Control (with availability display)</li>
+                                <li>(3)Fire safety plan</li>
+                                <li>(4) Remote viewing CCTv</li>
+                                <li>(5) 24 hours power supply & Security</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i>How and when do I get paid for bays in my park used by trucks via your application
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                           <p>
+                               The truck owner pays for access into your park via the CALL UP Application. Once the truck completes its cycle (in & Out) in your park, your virtual account is updated with the amount agreed at point of onboarding.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i>Must my park be insured and who bears the cost
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                           <p>
+                            Yes all parks must be insured and park owners bear the cost.
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="wide-tb-100 pb-0 mb-3">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="h1-sm fw-6 txt-blue mb-4">Truck Owners</h3>
+                </div>
+                <div class="theme-collapse arrow-right-border">
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What are the requirements for regsitration as a truck owner
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Company registration with CAC</li>
+                                <li>(2) NPA registation as maritime operator</li>
+                                <li>(3) Valid truck registation documents (vehicle license, road worthiness, motor insurance etc)</li>
+                                <li>(4) NUPENG certificate for tankers</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What criteria must my truck meet to qualify for registartion on your platform?
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Must have a registered truck company</li>
+                                <li>(2) All associated trucks must have complete truck registration documentation</li>
+                                <li>(3) Trucks must meet LASG MoT minimum safety standards</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="wide-tb-100 pb-0 mb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="h1-sm fw-6 txt-blue mb-4">Terminal Operator</h3>
+                </div>
+                <div class="theme-collapse arrow-right-border">
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What are the requirements for regsitration as a truck owner
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Company registration with CAC</li>
+                                <li>(2) NPA registation as maritime operator</li>
+                                <li>(3) Valid truck registation documents (vehicle license, road worthiness, motor insurance etc)</li>
+                                <li>(4) NUPENG certificate for tankers</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What criteria must my truck meet to qualify for registartion on your platform?
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Must have a registered truck company</li>
+                                <li>(2) All associated trucks must have complete truck registration documentation</li>
+                                <li>(3) Trucks must meet LASG MoT minimum safety standards</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
