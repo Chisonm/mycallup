@@ -31,6 +31,12 @@
                     <li class="{{ (request()->segment(1) == 'services') ? 'active nav-item' : 'nav-item' }}">
                         <a class="nav-link" href="{{ url('/services') }}">Services</a>
                     </li>
+                    <li class="{{ (request()->segment(1) == 'products') ? 'active nav-item' : 'nav-item' }}">
+                        <a class="nav-link" href="{{ url('/products') }}">Products</a>
+                    </li>
+                    <li class="{{ (request()->segment(1) == 'media') ? 'active nav-item' : 'nav-item' }}">
+                        <a class="nav-link" href="{{ url('/media') }}">Media</a>
+                    </li>
                     <li class="{{ (request()->segment(1) == 'contact-us') ? 'active nav-item' : 'nav-item' }}">
                         <a class="nav-link" href="{{ url('/contact-us') }}">Contact Us</a>
                     </li>

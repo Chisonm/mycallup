@@ -90,7 +90,7 @@
                         href="{{ url('/faqs') }}">Faq's</a>
                 </div>
                 <div class="col-sm-12 col-md-6 text-md-end text-center">
-                    Designed by <a class="text-white" href="https://kayaafrica.co"  target="_blank" rel="nofollow">KayaAfrica</a> © 2022 All Rights Reserved
+                    Copyright © 2023 Mycallup. All Right Reserved.
                 </div>
             </div>
         </div>

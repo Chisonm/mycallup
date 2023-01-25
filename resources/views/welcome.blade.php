@@ -21,29 +21,29 @@
                 <ul>
                     <li data-index="rs-82" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                         data-hideslideonmobile="off" data-easein="Power4.easeOut" data-easeout="Power4.easeOut"
-                        data-masterspeed="1000" data-thumb="{{ asset('../../assets/images/waterfal-100x50.jpg') }}" data-rotate="0"
-                        data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3=""
-                        data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
-                        data-param10="" data-description="" data-slicey_shadow="0px 0px 50px 0px transparent">
+                        data-masterspeed="1000" data-thumb="{{ asset('../../assets/images/waterfal-100x50.jpg') }}"
+                        data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2=""
+                        data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+                        data-param9="" data-param10="" data-description=""
+                        data-slicey_shadow="0px 0px 50px 0px transparent">
 
-                        <img src="{{ asset('assets/images/banner_slider.jpg') }}" alt="" data-bgposition="center center"
-                            data-kenburns="on" data-duration="7000" data-ease="Linear.easeNone" data-scalestart="100"
-                            data-scaleend="150" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0"
-                            data-offsetstart="0 0" data-offsetend="0 0" class="rev-slidebg" data-no-retina>
-
-
-                        <div class="tp-caption tp-resizeme NotGeneric-Title text-center" id="slide-82-layer-2"
-                            data-blendmode=”color-dodge“ data-x="['center','center','center','center']"
-                            data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-                            data-voffset="['-70','-70','-70','-70']" data-fontsize="['70','60','60','55']"
-                            data-lineheight="['80','70','70','40']" data-width="none" data-height="none"
-                            data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
-                            data-frames='[{"delay":200,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"><span
-                                class="slider-small">Truck market <br />to make haulage <br /> services more
-                                accessible</span>
-                        </div>
+                        <img src="{{ asset('assets/images/banner_slider.jpg') }}" alt=""
+                            data-bgposition="center center" data-kenburns="on" data-duration="7000"
+                            data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="150" data-rotatestart="0"
+                            data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0"
+                            data-offsetend="0 0" class="rev-slidebg" data-no-retina />
+                            <div >Truck market to  <br/> make haulage services more
+                                accessible</div>
+                                <div class="tp-caption medium_light_white tp-resizeme" id="slide-82-layer-3"
+                                data-blendmode=”color-dodge“ data-x="['center','center','center','center']"
+                                data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
+                                data-voffset="['-10','-10','-10','-10']" data-width="none" data-height="none"
+                                data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                                data-frames='[{"delay":500,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                                data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                                data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
+                                data-fontsize="['28','28','28','28']" data-lineheight="['34','34','34','50']">From Pickup to
+                                Destination</div>
 
                         <div class="tp-caption tp-resizeme small_light_white " id="slide-82-layer-4"
                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -78,9 +78,9 @@
                         data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9=""
                         data-param10="" data-description="">
 
-                        <img src="{{ asset('assets/images/banner_slider_2.jpg') }}" alt="" data-bgposition="center center"
-                            data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg"
-                            data-no-retina>
+                        <img src="{{ asset('assets/images/banner_slider_2.jpg') }}" alt=""
+                            data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
+                            data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
 
                         <div class="tp-caption NotGeneric-Title tp-resizeme" id="slide-3-layer-1" data-x="left"
@@ -105,7 +105,7 @@
                             style="z-index: 2; white-space: nowrap; font-size: 18px; line-height: 30px;">Using automated
                             traffic networks and data analytics, we produce insight for economic progress.
                         </div>
-
+                        <a class="text-white" href="{{ url('/about-us') }}">
                         <div class="tp-caption BigBold-Button rev-btn " id="slide-3-layer-3" data-x="left"
                             data-hoffset="60" data-y="center" data-voffset="100" data-width="['auto']"
                             data-height="['auto']" data-transform_idle="o:1;"
@@ -118,9 +118,9 @@
                             data-actions='[{"event":"click","action":"jumptoslide","slide":"next","delay":""}]'
                             data-responsive_offset="on" data-responsive="off"
                             style="z-index: 3; white-space: nowrap; font-weight: 800;background-color:rgba(41, 46, 49, 1.00);border-color:rgba(255, 255, 255, 0);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
-
-                            <a class="text-white" href="{{ url('/services') }}">READ MORE</a>
+                            READ MORE
                         </div>
+                    </a>
                     </li>
                 </ul>
                 <div class="tp-bannertimer tp-bottom" style="height: 7px; background-color: rgba(255, 255, 255, 0.25);">
@@ -193,7 +193,7 @@
                         <div class="col pl-0">
                             <h5 class="mb-3 h5-xs fw-6">Subscribe to Newsletter</h5>
                             <div class="text">
-                                <a href="#" class="btn-theme bg-light-theme light tra">
+                                <a href="#subscrib" class="btn-theme bg-light-theme light tra">
                                     Get Started Now!
                                 </a>
                             </div>
@@ -230,7 +230,7 @@
                                 <i class="icofont-traffic-light"></i>
                                 <h3 class="h3-xs txt-blue"> Traffic Management</h3>
                                 <p>Our system allows for seamless movement from one terminal to another.</p>
-                                <a href="#" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
                         </div>
 
@@ -240,7 +240,7 @@
                                 <i class="icofont-live-support"></i>
                                 <h3 class="h3-xs txt-blue">Port Access Control</h3>
                                 <p>we offer planned access to the ports and associated terminals.</p>
-                                <a href="#" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
                         </div>
 
@@ -253,7 +253,7 @@
                                 <i class="icofont-tow-truck"></i>
                                 <h3 class="h3-xs txt-blue">Mobility Design</h3>
                                 <p>We also provide guidance on non-truck traffic.</p>
-                                <a href="#" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
                         </div>
 
@@ -263,7 +263,7 @@
                                 <i class="icofont-delivery-time"></i>
                                 <h3 class="h3-xs txt-blue">Smart Packing</h3>
                                 <p>we create smart parks that deploy essential physical and electronic infrastructure.</p>
-                                <a href="#" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
                         </div>
 
@@ -384,6 +384,49 @@
         </div>
     </section>
 
+    {{-- counter area --}}
+    <section class="wide-tb-100 pos-rel">
+        <div class="container">
+            <div class="row">
+                <div class="col counter-style-1 col-6 col-lg-3 col-sm-6 wow fadeInRight" data-wow-duration="0"
+                    data-wow-delay="0">
+                    <p><i class="icofont-truck-alt text-black"></i></p>
+                    <span class="counter text-black">75</span>
+                    <span class="text-black">+</span>
+                    <div class="text-black">
+                        Regsitered Trucks
+                    </div>
+                </div>
+                <div class="col counter-style-1 col-6 col-lg-3 col-sm-6 wow fadeInRight" data-wow-duration="0"
+                    data-wow-delay="0">
+                    <p><i class="icofont-industries text-black"></i></p>
+                    <span class="counter text-black">240</span>
+                    <span class="text-black">+</span>
+                    <div class="text-black">
+                        Approved Parks
+                    </div>
+                </div>
+                <div class="col counter-style-1 col-6 col-lg-3 col-sm-6 wow fadeInRight" data-wow-duration="0"
+                    data-wow-delay="0">
+                    <p><i class="icofont-users text-black"></i></p>
+                    <span class="counter text-black">550</span>
+                    <span class="text-black">+</span>
+                    <div class="text-black">
+                        Registered Users
+                    </div>
+                </div>
+                <div class="col counter-style-1 col-6 col-lg-3 col-sm-6 wow fadeInRight" data-wow-duration="0"
+                    data-wow-delay="0">
+                    <p><i class="icofont-money-bag text-black"></i></p>
+                    <span class="counter text-black">700</span>
+                    <span class="text-black">+</span>
+                    <div class="text-black">
+                        Transactions Processed
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     {{-- contact us area --}}
     <section class="wide-tb-100 pos-rel">
         <div class="container">
@@ -527,6 +570,24 @@
                             <img src="assets/images/clients/client6.png" alt="">
                         </div>
 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="wide-tb-70 bg-light-gray pb-5 footer-subscribe" id="subscrib">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 d-flex col-md-12 col-lg-6">
+                    <div class="d- align-items-center d-sm-inline-flex  w-100">
+                        <div class="head">
+                            <span class="d-block">SUBSCRIBE For</span> NEWSLETTER
+                        </div>
+                        <form class="flex-nowrap col ms-3">
+                            <input type="text" class="form-control" placeholder="Enter your email">
+                            <button type="submit" class="btn btn-theme bg-navy-blue">SUBSCRIBE</i></button>
+                        </form>
                     </div>
                 </div>
             </div>

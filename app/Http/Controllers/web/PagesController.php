@@ -35,4 +35,16 @@ class PagesController extends Controller
     {
         return view('pages.faqs');
     }
+
+    //products page
+    public function productsPage()
+    {
+        return view('pages.products');
+    }
+
+    //media page
+    public function mediaPage()
+    {
+        return view('pages.media');
+    }
 }
