@@ -215,43 +215,41 @@
         </div>
     </section>
 
-    <section class="wide-tb-100 pb-0 mb-5">
+    {{-- Terminal Operators --}}
+    <section class="wide-tb-100 pb-0 mb-2">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h3 class="h1-sm fw-6 txt-blue mb-4">Terminal Operator</h3>
+                    <h3 class="h1-sm fw-6 txt-blue mb-4">Terminal Operators</h3>
                 </div>
                 <div class="theme-collapse arrow-right-border">
 
                     <div class="toggle">
-                        <i class="icofont-rounded-down"></i> What are the requirements for regsitration as a truck owner
+                        <i class="icofont-rounded-down"></i> What are the requirements for registartion as a Terminal Operator
                     </div>
 
 
                     <div class="collapse">
                         <div class="content">
                             <ul class="list-unstyled">
-                                <li>(1) Company registration with CAC</li>
-                                <li>(2) NPA registation as maritime operator</li>
-                                <li>(3) Valid truck registation documents (vehicle license, road worthiness, motor insurance etc)</li>
-                                <li>(4) NUPENG certificate for tankers</li>
+                                <li>(1) NPA contract,</li>
+                                <li>(2) location of terminal,</li>
+                                <li>(3) Daily processing capacity by truck category and status (private or public).</li>
+                                <li>(4) Shipping lines supported by the terminal and type(s) of cargo handled</li>
+                                <li>(5) Operational hours.</li>
                             </ul>
                         </div>
                     </div>
 
 
                     <div class="toggle">
-                        <i class="icofont-rounded-down"></i> What criteria must my truck meet to qualify for registartion on your platform?
+                        <i class="icofont-rounded-down"></i> How will Terminal Operators publish container TDOs
                     </div>
 
 
                     <div class="collapse">
                         <div class="content">
-                            <ul class="list-unstyled">
-                                <li>(1) Must have a registered truck company</li>
-                                <li>(2) All associated trucks must have complete truck registration documentation</li>
-                                <li>(3) Trucks must meet LASG MoT minimum safety standards</li>
-                            </ul>
+                            <p>Terminal Operators update their profiles as and when required with TDOs for clearing agents to match with intended trucks for collection</p>
                         </div>
                     </div>
                 </div>

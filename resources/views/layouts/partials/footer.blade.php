@@ -8,13 +8,6 @@
                 </div>
                 <p>We provide a complete automation control for truck management and traffic flow in the busiest port
                     zones in Nigeria.</p>
-                <h3 class="footer-heading">We're Social</h3>
-                <div class="social-icons">
-                    <a href="#"><i class="icofont-facebook"></i></a>
-                    <a href="#"><i class="icofont-twitter"></i></a>
-                    <a href="#"><i class="icofont-whatsapp"></i></a>
-                    <a href="#"><i class="icofont-google-plus"></i></a>
-                </div>
             </div>
 
 
@@ -71,12 +64,12 @@
 
 
             <div class="col-lg-3 col-md-6">
-                <h3 class="footer-heading">Twitter</h3>
-                <div class="footer-widget-tweet">
-                    <div>
-                        <a href="#" class="btn-theme icon-left"><i class="icofont-twitter"></i> Follow
-                            @twitter</a>
-                    </div>
+                <h3 class="footer-heading">We're Social</h3>
+                <div class="social-icons">
+                    <a href="#"><i class="icofont-facebook"></i></a>
+                    <a href="#"><i class="icofont-twitter"></i></a>
+                    <a href="#"><i class="icofont-whatsapp"></i></a>
+                    <a href="#"><i class="icofont-google-plus"></i></a>
                 </div>
             </div>
 
