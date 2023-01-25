@@ -309,8 +309,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md">Vision</h4>
-                                <p>To use technology to solve mobility problems across the African continent, adopting
-                                    speed, efficiency and professionalism</p>
+                                <p>To solve truck traffic and mobility challenges from city-to-city in Nigeria by using technology.</p>
                             </div>
                         </div>
                     </div>
@@ -325,8 +324,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md">Mission</h4>
-                                <p>To use technology as a driving factor for solving day-to-day problems (transportation
-                                    enablement currently the focus)</p>
+                                <p>To solve real life daily problems in transportation and mitigating gridlock by introducing adaptive control approach to improve mobility and relieve congestion.</p>
                             </div>
                         </div>
                     </div>

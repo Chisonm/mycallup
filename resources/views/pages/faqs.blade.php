@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    <section class="wide-tb-100 pb-0 mb-3">
+    <section class="wide-tb-100 pb-0 mb-2">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -95,7 +95,7 @@
             </div>
         </div>
     </section>
-    <section class="wide-tb-100 pb-0 mb-3">
+    <section class="wide-tb-100 pb-0 mb-2">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -171,7 +171,7 @@
         </div>
     </section>
 
-    <section class="wide-tb-100 pb-0 mb-3">
+    <section class="wide-tb-100 pb-0 mb-2">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -250,6 +250,134 @@
                     <div class="collapse">
                         <div class="content">
                             <p>Terminal Operators update their profiles as and when required with TDOs for clearing agents to match with intended trucks for collection</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {{-- Clearing Agents --}}
+    <section class="wide-tb-100 pb-0 mb-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="h1-sm fw-6 txt-blue mb-4">Clearing Agents</h3>
+                </div>
+                <div class="theme-collapse arrow-right-border">
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> Must a clearing agent create an account on your ETO Platform
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <p>Yes, Clearing agents are expected to register and create their profile on the platform to enable them book trucks</p>
+                        </div>
+                    </div>
+
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What are the requirements for registartion as a Clearing Agent
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) CAC regsitration documents</li>
+                                <li>(2) NPA regsitartion documents</li>
+                                <li>(3) Shippers council regsitartion where applicable</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> At the point of registartion, what information does a clearing agent capture on the CALL UP application
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Terminal(s) of operation</li>
+                                <li>(2) Cargo type</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+     {{-- Transport Unions --}}
+     <section class="wide-tb-100 pb-0 mb-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="h1-sm fw-6 txt-blue mb-4">Transport Unions</h3>
+                </div>
+                <div class="theme-collapse arrow-right-border">
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What does a union need to do to support the process
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <p>Unions need to ensure that its memebers are resgistered on the platform and that they indicate the union they belong to when registering their trucks. The union must ensure the members comply with the queuing process</p>
+                        </div>
+                    </div>
+
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> How does a union benefit from your service
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                          <p>Unions are incentivized with a X% of access fee (after tax) for each trip made to a terminal for all trucks registered on the CALL UP aplication by its members. This is to ensure compliance of the traffic management process by its members</p>
+                        </div>
+                    </div>
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What are the requirements for registration as a Union?
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <ul class="list-unstyled">
+                                <li>(1) Registration certificate (CAC)</li>
+                                <li>(2) Evidence of maritime operation and recognition by NPA</li>
+                                <li>(3) Number of trucks owned by its members</li>
+                                <li>(4) Details of union executives</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> What information can the union see on the online account
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                            <p>Unions would see the number of trucks associated with their union that accessed the various parks and amount due to them for the period</p>
+                        </div>
+                    </div>
+
+                    <div class="toggle">
+                        <i class="icofont-rounded-down"></i> Which member of the union will have access to the account
+                    </div>
+
+
+                    <div class="collapse">
+                        <div class="content">
+                         <p>The union executives will provide details of whom should have access to its account</p>
                         </div>
                     </div>
                 </div>
