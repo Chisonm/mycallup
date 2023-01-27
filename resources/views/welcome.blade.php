@@ -194,7 +194,7 @@
                             <h5 class="mb-3 h5-xs fw-6">Subscribe to Newsletter</h5>
                             <div class="text">
                                 <a href="#subscrib" class="btn-theme bg-light-theme light tra">
-                                    Get Started Now!
+                                    Get Started
                                 </a>
                             </div>
                         </div>
