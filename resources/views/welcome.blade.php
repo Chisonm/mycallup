@@ -336,8 +336,10 @@
                         </h1>
                     </div>
 
-                    <p class="lead fw-5 txt-blue">Whether you require distribution or fulfillment, defined freight
-                        forwarding, or a complete supply chain solution, we are here for you.</p>
+                    <p class="lead fw-5 txt-blue">As an innovative driver, we pride ourselves in building cutting edge technology
+                        and lifecycle solutions for the maritime logistics sector. We emphasize innovation
+                        in sustainable technology and services to help our clients continuously improve
+                        their environmental and economic performance. </p>
                     <div class="mt-5">
                         <ul class="nav nav-pills theme-tabbing mb-3" id="pills-tab" role="tablist">
                             <li class="nav-item">
@@ -365,14 +367,16 @@
                             </div>
                             <div class="tab-pane fade" id="pills-vision" role="tabpanel"
                                 aria-labelledby="pills-profile-tab">
-                                <p> To solve truck traffic and mobility challenges from city-to-city in Nigeria by using
-                                    technology. </p>
+                                <p> We envision safe and efficient traffic mobility where the road networks are not
+                                    congested, accident-free, and equally shared between all road users in Nigeria
+                                    </p>
                                 </p>
                             </div>
                             <div class="tab-pane fade show" id="pills-mission" role="tabpanel"
                                 aria-labelledby="pills-mission-tab">
-                                <p>To solve real life daily problems in transportation and mitigating gridlock by
-                                    introducing adaptive control approach to improve mobility and relieve congestion.</p>
+                                <p>To solve real life problems in transportation and mitigating gridlock by
+                                    introducing adaptive control approach to improve mobility and relieve
+                                    congestion in and around the ports </p>
                             </div>
                         </div>
                     </div>

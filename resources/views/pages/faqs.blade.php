@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    <section class="wide-tb-100 pb-0 mb-2">
+    {{-- <section class="wide-tb-100 pb-0 mb-2">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -94,7 +94,7 @@
 
             </div>
         </div>
-    </section>
+    </section> --}}
     <section class="wide-tb-100 pb-0 mb-2">
         <div class="container">
             <div class="row">

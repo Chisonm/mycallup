@@ -9,11 +9,10 @@
             </nav>
             <h1>OUR SERVICES</h1>
             <div class="breadcrumbs-description">
-               Amazing services we render
+                Amazing services we render
             </div>
         </div>
     </div>
-
     <section class="wide-tb-80 bg-fixed what-we-offer">
         <div class="container pos-rel">
             <div class="row align-items-center">
@@ -25,10 +24,10 @@
                         <span>Traffic Management</span>
                     </h2>
                     <p class="wow fadeInLeft service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        We provide a complete automation control for truck management and traffic flow in the busiest port
-                        zones in Nigeria. Our system allows for seamless movement from one terminal to another.
-                        Our system makes sure that truck traffic doesn't obstruct other drivers, locals, or commercial
-                        establishments in the port access lanes.
+                        We have built a state-of-the-art electronic call-up system primarily for managing
+                        traffic in and around all ports within Nigeria. This will help reduce travel time for
+                        all road users and enhance productivity and efficiency within the Maritime
+                        Logistics sector.
                     </p>
                 </div>
                 <div class="col-md-6">
@@ -36,7 +35,25 @@
             </div>
         </div>
     </section>
-
+    <section class="bg-white wide-tb-100">
+        <div class="container pos-rel">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h2 class="mb-4 fw-7 txt-blue wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">Port Traffic
+                        Management (Real-time Traffic Data & Predictive Insights)</h2>
+                    <p class="wow fadeInLeft service-text" data-wow-duration="0" data-wow-delay="0.2s">
+                        We have the capacity and capability to assist port authorities and terminal
+                        operators monitor truck movements and congestion. Equipped with real-time
+                        truck traffic data and predictive insights, terminal operators will be able to
+                        significantly reduce truck queues in and around their cargo terminals.
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <img src="{{ asset('assets/images/why-choose-us.jpg') }}" alt=""
+                        class="img-fluid wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">
+                </div>
+            </div>
+    </section>
     <section class="bg-white wide-tb-100">
         <div class="container pos-rel">
             <div class="row align-items-center">
@@ -45,14 +62,13 @@
                         data-wow-duration="0" data-wow-delay="0s">
                 </div>
                 <div class="col-md-6">
-                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Port Access
+                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Access
                         Control</h2>
                     <p class="wow fadeInRight service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        Through our truck call-up application, we offer planned access to the ports and associated
-                        terminals.
-                        The application manages traffic on port access routes, gives the Nigerian Ports Authority visibility
-                        into the ports, and gives port customers a straightforward booking platform to organize their access
-                        into the ports.
+                        Our electronic call-up system, enables the sequential flow of trucks from holding
+                        bays to terminals within the Ports. The integrated hardware and software capture
+                        all digital footprints and eliminate human interference thus promoting
+                        transparency.
                     </p>
                 </div>
             </div>
@@ -79,42 +95,21 @@
                 </div>
             </div>
     </section>
+
     <section class="bg-white wide-tb-100">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="{{ asset('assets/images/why-choose-us.jpg') }}" alt="" class="img-fluid wow fadeInLeft"
-                        data-wow-duration="0" data-wow-delay="0s">
+                    <img src="{{ asset('assets/images/why-choose-us.jpg') }}" alt=""
+                        class="img-fluid wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                 </div>
                 <div class="col-md-6">
                     <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Smart Packing
                     </h2>
                     <p class="wow fadeInRight service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        We handle a point-to-point truck movement schedule and an end-to-end truck movement procedure from
-                        origin to destination using our network of connected truck parks.
-                        Additionally, in order to provide visibility and effective traffic control, we create smart parks
-                        that deploy essential physical and electronic infrastructure.
+                        Through our smart parking app, transporters can see where they can park their
+                        trucks saving valuable time, money, fuel emissions and frustration
                     </p>
-                </div>
-            </div>
-    </section>
-    <section class="bg-white wide-tb-100">
-        <div class="container pos-rel">
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <h2 class="mb-4 fw-7 txt-blue wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">Terminal Traffic
-                        Management</h2>
-                    <p class="wow fadeInLeft service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        We offer port terminal operators, manufacturers, and warehouses operational support and visibility
-                        into in-terminal truck movement through technology.
-                        However, because of how well-built our terminal dashboard is, it can also cover berth side
-                        operations, offering operational support for loading and unloading of cargo. Manufacturing
-                        businesses currently use our terminal dashboard in port scenarios.
-                    </p>
-                </div>
-                <div class="col-md-6">
-                    <img src="{{ asset('assets/images/why-choose-us.jpg') }}" alt="" class="img-fluid wow fadeInRight"
-                    data-wow-duration="0" data-wow-delay="0s">
                 </div>
             </div>
     </section>
@@ -126,14 +121,14 @@
                         data-wow-duration="0" data-wow-delay="0s">
                 </div>
                 <div class="col-md-6">
-                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Park Design And
-                        Management</h2>
+                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Truck Parking
+                        Design & Management
+                    </h2>
                     <p class="wow fadeInRight service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        In order to improve parks to a standard, we develop truck parks and interact with park owners. We
-                        provide structural engineering services,
-                        access control infrastructure, and technology deployment.
-                        The provision of ancillary services including rest spaces, meals, repairs, and refuelling amenities
-                        is a feature of our park designs.
+                        Parking is not just about optimizing space utilization in a yard. Equally important is
+                        the traffic flow in & out of the truck park which could create bottlenecks. We
+                        can advise and design a site-specific and project intent-driven realistic,
+                        operationally workable solution for any government approved park.
                     </p>
                 </div>
             </div>

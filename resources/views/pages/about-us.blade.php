@@ -22,13 +22,16 @@
                     <h2 class="mb-4 fw-7 txt-blue">
                         About <span class="fw-6 txt-orange">Mycallup</span>
                     </h2>
-                    <p>We aim at building cutting edge solutions to mobility and truck gridlock issues. We provide a smart
-                        city system by integrating into truck mobility to render services like no other across the nation.
-                        Technology is evolving and we are giving first hand experience to take this journey in tech with us.
+                    <p>As an innovative driver, we pride ourselves in building cutting edge technology
+                        and lifecycle solutions for the maritime logistics sector. We emphasize innovation
+                        in sustainable technology and services to help our clients continuously improve
+                        their environmental and economic performance.
                     </p>
-                    <p> We have developed a truck callup system to interface with the physical infrastructure already in
-                        place, thereby increasing the flow of structures and visibility for operators and regulators in the
-                        transportation and warehousing sector.</p>
+                    <p> MyCallUp solutions optimize both port and terminal logistics processes and
+                        security matters as well. Through automation, we make the process more secure
+                        and therefore efficient and cost-effective.</p>
+                        <p> Whatever the scope of the project, we are always working at the frontier of new
+                            technology to optimize smart and sustainable mobility.</p>
                 </div>
                 <div class="col-md-6 wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">
                     <img src="{{ asset('assets/images/map-bg-orange.jpg') }}" alt="">
@@ -48,37 +51,23 @@
                     </h1>
                 </div>
 
-                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0s">
+
+                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.8s">
                     <div class="icon-box-3 mb-5 bg-light-theme">
                         <div class="media">
                             <div class="service-icon mr-5 bg-navy-blue">
-                                <i class="icofont-truck"></i>
+                                <i class="icofont-architecture-alt"></i>
                             </div>
                             <div class="service-inner-content media-body">
-                                <h4 class="h4-md mb-3">Terminal Operators </h4>
-                                <p>On our platform, all terminal operators must register by setting up a profile.</p>
+                                <h4 class="h4-md mb-3">Operators of Truck Parks</h4>
+                                <p>All government approved truck parks will be
+                                    onboarded onto the CallUp platform and signify real-time availability of parking
+                                    bays </p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.2s">
-                    <div class="icon-box-3 mb-5 bg-light-theme">
-                        <div class="media">
-                            <div class="service-icon mr-5 bg-navy-blue">
-                                <i class="icofont-under-construction"></i>
-                            </div>
-                            <div class="service-inner-content media-body">
-                                <h4 class="h4-md mb-3">Agents for clearing</h4>
-                                <p>All clearing agents are expected to register their profiles on the platform in order to be able to
-                                    book trucks since clearing agents are in charge of clearing port consignment/cargo.</p>
-                                <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.4s">
                     <div class="icon-box-3 mb-5 bg-light-theme">
                         <div class="media">
@@ -87,9 +76,24 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Truck Owners</h4>
-                                <p>All truck owners should register their vehicles on the platform if they plan to utilise them for
-                                    maritime commerce. On the platform, each truck owner will make a profile before registering their
-                                    vehicles.</p>
+                                <p>Truck owners are expected to sign up on the CallUp platform and
+                                    register their trucks and drivers operating within the maritime logistics sector.  </p>
+                                <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.2s">
+                    <div class="icon-box-3 mb-5 bg-light-theme">
+                        <div class="media">
+                            <div class="service-icon mr-5 bg-navy-blue">
+                                <i class="icofont-under-construction"></i>
+                            </div>
+                            <div class="service-inner-content media-body">
+                                <h4 class="h4-md mb-3">Agents for clearing</h4>
+                                <p>Clearing agents are expected to register on the CallUp
+                                    Platform in order to have visibility of trucks within Parks to pick up their cleared
+                                    consignment </p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -104,43 +108,25 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Transport Unions</h4>
-                                <p>The registered unions must make sure that their members register on the platform and specify the
-                                    union to which they belong when doing so. The unions must compel their members to follow the
-                                    integrated traffic management approach.</p>
+                                <p>All registered unions within the maritime logistics sector will be
+                                    onboarded onto the CallUp platform and will ensure that all registered members
+                                    within each union adheres to all scheduling and maritime rules and regulations </p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.8s">
+                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0s">
                     <div class="icon-box-3 mb-5 bg-light-theme">
                         <div class="media">
                             <div class="service-icon mr-5 bg-navy-blue">
-                                <i class="icofont-architecture-alt"></i>
+                                <i class="icofont-truck"></i>
                             </div>
                             <div class="service-inner-content media-body">
-                                <h4 class="h4-md mb-3">Operators of Truck Parks</h4>
-                                <p>Private park owners can register their parks on the platform and specify how much space each park has
-                                    available for holding bays. To make it possible for users to make reservations, all parks that are
-                                    available will be electronically linked.</p>
-                                <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.9s">
-                    <div class="icon-box-3 mb-5 bg-light-theme">
-                        <div class="media">
-                            <div class="service-icon mr-5 bg-navy-blue">
-                                <i class="icofont-truck-loaded"></i>
-                            </div>
-                            <div class="service-inner-content media-body">
-                                <h4 class="h4-md mb-3">Drivers</h4>
-                                <p>When a truck is nominated for a trip, the owner will pair the truck with a driver who has registered
-                                    on the platform. A driver is legitimately registered, and our business has the necessary paperwork
-                                    on hand.</p>
+                                <h4 class="h4-md mb-3">Terminal Operators </h4>
+                                <p>All terminal operators will be onboarded onto the Call Up
+                                    application</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -170,9 +156,24 @@
                                 <i class="icofont-industries"></i>
                             </div>
                             <div class="service-inner-content media-body">
-                                <h4 class="h4-md mb-3">Companies that deal in commodities  and fast-moving consumer products</h4>
-                                <p> To acquire access to the ports, these businesses must register their businesses and trucks on the
-                                    platform and send a request to our business.</p>
+                                <h4 class="h4-md mb-3">FMCGs</h4>
+                                <p> These companies will be onboarded onto the CallUp platform so that
+                                    they can register their trucks and drivers to gain access into a port </p>
+                                <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 wow fadeInUp" data-wow-duration="0" data-wow-delay="0.9s">
+                    <div class="icon-box-3 mb-5 bg-light-theme">
+                        <div class="media">
+                            <div class="service-icon mr-5 bg-navy-blue">
+                                <i class="icofont-truck-loaded"></i>
+                            </div>
+                            <div class="service-inner-content media-body">
+                                <h4 class="h4-md mb-3">Drivers</h4>
+                                <p>Only registered drivers on the CallUp platform will be matched to an MSS
+                                    verified truck during the course of making a booking. </p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -182,7 +183,7 @@
         </div>
     </section>
 
-    <section class="wide-tb-100 pb-0 team-section-bottom pos-rel">
+    {{-- <section class="wide-tb-100 pb-0 team-section-bottom pos-rel">
         <div class="container">
 
             <div class="col-sm-12">
@@ -249,7 +250,7 @@
 
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <section class="wide-tb-100 pb-0 mb-spacer-md">
         <div class="container">
@@ -263,7 +264,7 @@
                     <div class="icon-box-2 text-center">
                         <div class="">
                             <i class="icofont-box text-md" style="font-size: 50px"></i>
-                            <h4 class="h4-md">Service</h4>
+                            <h4 class="h4-md">Agility</h4>
                         </div>
                     </div>
                 </div>
@@ -272,7 +273,7 @@
                     <div class="icon-box-2 text-center">
                         <div class="">
                             <i class="icofont-id text-md" style="font-size: 50px"></i>
-                            <h4 class="h4-md">Professionalism</h4>
+                            <h4 class="h4-md">Innovation</h4>
                         </div>
                     </div>
                 </div>
@@ -281,7 +282,7 @@
                     <div class="icon-box-2 text-center">
                         <div class="">
                             <i class="icofont-id text-md" style="font-size: 50px"></i>
-                            <h4 class="h4-md">Integrity</h4>
+                            <h4 class="h4-md">Collaboration</h4>
                         </div>
                     </div>
                 </div>
@@ -290,7 +291,7 @@
                     <div class="icon-box-2 text-center">
                         <div class="">
                             <i class="icofont-id text-md" style="font-size: 50px"></i>
-                            <h4 class="h4-md">Nimbleness</h4>
+                            <h4 class="h4-md">Ownership</h4>
                         </div>
                     </div>
                 </div>
@@ -309,7 +310,8 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md">Vision</h4>
-                                <p>To solve truck traffic and mobility challenges from city-to-city in Nigeria by using technology.</p>
+                                <p>We envision safe and efficient traffic mobility where the road networks are not
+                                    congested, accident-free, and equally shared between all road users in Nigeria</p>
                             </div>
                         </div>
                     </div>
@@ -324,7 +326,9 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md">Mission</h4>
-                                <p>To solve real life daily problems in transportation and mitigating gridlock by introducing adaptive control approach to improve mobility and relieve congestion.</p>
+                                <p>To solve real life problems in transportation and mitigating gridlock by
+                                    introducing adaptive control approach to improve mobility and relieve
+                                    congestion in and around the ports</p>
                             </div>
                         </div>
                     </div>
