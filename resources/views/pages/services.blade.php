@@ -10,7 +10,7 @@
             <h1>OUR SERVICES</h1>
         </div>
     </div>
-    <section class="wide-tb-80 bg-fixed what-we-offer" id="Traffic-Management">
+    <section class="wide-tb-80 bg-fixed" id="Traffic-Management">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
