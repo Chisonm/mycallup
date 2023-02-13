@@ -282,7 +282,8 @@
                         </h1>
                     </div>
 
-                    <p class="lead fw-5 txt-blue">As an innovative driver, we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector. We emphasize innovation in sustainable technology and services to help our clients continuously improve their environmental and economic performance.</p>
+                    <p class="lead fw-5 txt-blue">we are always working at the frontier of new technology to optimize smart and sustainable mobility. 
+                    </p>
                     <div class="mt-5">
                         <ul class="nav nav-pills theme-tabbing mb-3" id="pills-tab" role="tablist">
                             <li class="nav-item">
@@ -300,13 +301,8 @@
                         <div class="tab-content theme-tabbing" id="pills-tabContent">
                             <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
                                 aria-labelledby="pills-home-tab">
-                                <p>We aim at building cutting edge solutions to mobility and truck gridlock issues. We
-                                    provide a smart city system by integrating into truck mobility to render services like
-                                    no other across the nation. Technology is evolving and we are giving first hand
-                                    experience to take this journey in tech with us. </p>
-                                <p>We have developed a truck callup system to interface with the physical infrastructure
-                                    already in place, thereby increasing the flow of structures and visibility for operators
-                                    and regulators in the transportation and warehousing sector.</p>
+                                <p>As an innovative driver, we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector. We emphasize innovation in sustainable technology and services to help our clients continuously improve their environmental and economic performance</p>
+                                <p>Call Up solutions optimize both port and terminal logistics processes and security matters as well. Through automation, we make the process more secure and therefore efficient and cost-effective.</p>
                             </div>
                             <div class="tab-pane fade" id="pills-vision" role="tabpanel"
                                 aria-labelledby="pills-profile-tab">
@@ -328,7 +324,7 @@
     </section>
 
     {{-- counter area --}}
-    <section class="wide-tb-100 pos-rel">
+    {{-- <section class="wide-tb-100 pos-rel">
         <div class="container">
             <div class="row">
                 <div class="col counter-style-1 col-6 col-lg-3 col-sm-6 wow fadeInRight" data-wow-duration="0"
@@ -369,7 +365,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     {{-- contact us area --}}
     <section class="wide-tb-100 pos-rel">
         <div class="container">

@@ -6,8 +6,7 @@
                 <div class="logo-footer">
                     <img src="{{ asset('assets/images/2.png') }}" height="85px" alt="logo">
                 </div>
-                <p>We provide a complete automation control for truck management and traffic flow in the busiest port
-                    zones in Nigeria.</p>
+                <p>we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector.</p>
             </div>
 
 
@@ -23,8 +22,8 @@
                                 <span>Services</span></a></li>
                         <li><a href="{{ url('contact-us') }}"><i class="icofont-simple-right"></i>
                                 <span>Contacts</span></a></li>
-                        <li><a href="{{ url('faqs') }}"><i class="icofont-simple-right"></i> <span>Faqs</span></a>
-                        </li>
+                        {{-- <li><a href="{{ url('faqs') }}"><i class="icofont-simple-right"></i> <span>Faqs</span></a>
+                        </li> --}}
                     </ul>
                 </div>
             </div>
