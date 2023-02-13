@@ -19,7 +19,7 @@ Route::get('/', [PagesController::class, 'homePage']);
 Route::get('/about-us', [PagesController::class, 'aboutPage']);
 Route::get('/services', [PagesController::class, 'servicePage']);
 Route::get('/contact-us', [PagesController::class, 'contactPage']);
-Route::get('/faqs', [PagesController::class, 'faqsPage']);
+// Route::get('/faqs', [PagesController::class, 'faqsPage']);
 // Route::get('/products', [PagesController::class, 'productsPage']);
 // Route::get('/media', [PagesController::class, 'mediaPage']);
 Route::post('/submitContact', [ContactController::class, 'submitContactForm'])->name('submitContact');

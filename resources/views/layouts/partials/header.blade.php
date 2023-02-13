@@ -40,9 +40,9 @@
                     <li class="{{ (request()->segment(1) == 'contact-us') ? 'active nav-item' : 'nav-item' }}">
                         <a class="nav-link" href="{{ url('/contact-us') }}">Contact Us</a>
                     </li>
-                    <li class="{{ (request()->segment(1) == 'faqs') ? 'active nav-item' : 'nav-item' }}">
+                    {{-- <li class="{{ (request()->segment(1) == 'faqs') ? 'active nav-item' : 'nav-item' }}">
                         <a class="nav-link" href="{{ url('/faqs') }}">FAQS</a>
-                    </li>
+                    </li> --}}
                 </ul>
 
             </div>
