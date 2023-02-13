@@ -530,7 +530,7 @@
     </section>
 
     {{-- client area --}}
-    <section class="wide-tb-100 bg-fixed clients-bg pos-rel">
+    {{-- <section class="wide-tb-100 bg-fixed clients-bg pos-rel">
         <div class="bg-overlay blue opacity-80"></div>
         <div class="container">
             <div class="row">
@@ -578,7 +578,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <section class="wide-tb-70 bg-light-gray pb-5 footer-subscribe" id="subscrib">
         <div class="container">
