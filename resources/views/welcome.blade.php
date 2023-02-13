@@ -32,6 +32,7 @@
                             data-offsetend="0 0" class="rev-slidebg" data-no-retina />
 
                         <div class="tp-caption tp-resizeme NotGeneric-Title" id="slide-82-layer-2" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-70','-70']" data-fontsize="['70','60','60','55']" data-lineheight="['80','70','70','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":200,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">MYCALLUP</div>
+                        <div class="tp-caption medium_light_white tp-resizeme" id="slide-82-layer-3" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-fontsize="['20','20','20','20']" data-lineheight="['34','34','34','50']">Explore our Tailored Smart Parking Solutions</div>
 
                         <div class="tp-caption tp-resizeme btn-theme bg-navy-blue rev-btn top-5" id="slide-82-layer-5"
                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -206,7 +207,7 @@
 
                     <div class="col-12 col-md-4">
                         <div class="icon-box-6">
-                            <i class="icofont-traffic-light"></i>
+                            <i class="icofont-chart-histogram"></i>
                             <h3 class="h3-xs txt-blue">Real-time Traffic Data & Predictive Analytics </h3>
                             <p>We have the capacity and capability to assist port authorities and terminal operators monitor truck movements and congestion.</p>
                             <a href="{{ url('services/#Real-time') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
@@ -214,7 +215,7 @@
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="icon-box-6">
-                            <i class="icofont-tow-truck"></i>
+                            <i class="icofont-automation"></i>
                             <h3 class="h3-xs txt-blue">Smart Packing</h3>
                             <p>Through our smart parking app, transporters have visibility of available bays within parks saving valuable time, money, fuel emissions and frustration.</p>
                             <a href="{{ url('services/#smartparking') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
@@ -321,7 +322,7 @@
                     </div>
                 </div>
                 <div class="img-business-man col-lg-6 col-md-6 ms-auto mr-5 mb-5">
-                    <img src="{{ asset('assets/images/truck4.png') }}" height="400" alt="truck">
+                    <img src="{{ asset('assets/images/calluptruck.png') }}" height="400" alt="truck">
                 </div>
             </div>
         </div>

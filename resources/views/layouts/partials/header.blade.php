@@ -9,9 +9,9 @@
             </div>
 
             <div class="d-inline-flex request-btn order-lg-last">
-                <a class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button"
+                {{-- <a class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button"
                     data-bs-toggle="modal" data-bs-target="#request_popup"><i class="icofont-user"></i><span
-                        class="d-none d-sm-inline-block">Login</span></a>
+                        class="d-none d-sm-inline-block">Login</span></a> --}}
 
                 <button class="navbar-toggler x collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"

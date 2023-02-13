@@ -98,7 +98,7 @@
                     <div class="icon-box-3 mb-5 bg-light-theme">
                         <div class="media">
                             <div class="service-icon mr-5 bg-navy-blue">
-                                <i class="icofont-truck"></i>
+                                <i class="icofont-architecture-alt"></i>
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Terminal Operators </h4>
@@ -113,7 +113,7 @@
                     <div class="icon-box-3 mb-5 bg-light-theme">
                         <div class="media">
                             <div class="service-icon mr-5 bg-navy-blue">
-                                <i class="icofont-vehicle-delivery-van"></i>
+                                <i class="icofont-truck"></i>
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">The haulage firms</h4>
