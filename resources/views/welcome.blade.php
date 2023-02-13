@@ -184,7 +184,7 @@
                         <div class="col-12 col-md-6">
                             <div class="icon-box-6">
                                 <i class="icofont-live-support"></i>
-                                <h3 class="h3-xs txt-blue">Port Access Control</h3>
+                                <h3 class="h3-xs txt-blue">Access Control</h3>
                                 <p>we offer planned access to the ports and associated terminals.</p>
                                 <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
@@ -197,8 +197,8 @@
                         <div class="col-12 col-md-6">
                             <div class="icon-box-6">
                                 <i class="icofont-tow-truck"></i>
-                                <h3 class="h3-xs txt-blue">Mobility Design</h3>
-                                <p>We also provide guidance on non-truck traffic.</p>
+                                <h3 class="h3-xs txt-blue">Smart Packing</h3>
+                                <p>We also provide guidance through our smart parking app.</p>
                                 <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
                         </div>
