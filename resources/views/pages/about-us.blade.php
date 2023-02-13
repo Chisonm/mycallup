@@ -3,16 +3,7 @@
 @section('content')
     <div class="slider bg-navy-blue bg-fixed pos-rel breadcrumbs-page">
         <div class="container">
-            <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#"><i class="icofont-home"></i></a></li>
-                    <li class="breadcrumb-item active" aria-current="page">About Us</li>
-                </ol>
-            </nav>
             <h1>About Us</h1>
-            <div class="breadcrumbs-description">
-                Meet the amazing team behind this project and find out more about how we work.
-            </div>
         </div>
     </div>
     <section class="wide-tb-80">
@@ -20,7 +11,7 @@
             <div class="row align-items-center">
                 <div class="col-md-6 wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                     <h2 class="mb-4 fw-7 txt-blue">
-                        About <span class="fw-6 txt-orange">Mycallup</span>
+                       <span class="fw-6 txt-orange">Callup</span>
                     </h2>
                     <p>As an innovative driver, we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector. We emphasize innovation in sustainable technology and services to help our clients continuously improve their environmental and economic performance.</p>
                     <p>Call Up solutions optimize both port and terminal logistics processes and security matters as well. Through automation, we make the process more secure and therefore efficient and cost-effective.</p>

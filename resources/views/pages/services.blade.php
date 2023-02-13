@@ -8,18 +8,12 @@
                 </ol>
             </nav>
             <h1>OUR SERVICES</h1>
-            <div class="breadcrumbs-description">
-                Amazing services we render
-            </div>
         </div>
     </div>
     <section class="wide-tb-80 bg-fixed what-we-offer">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <h2 class="mb-4 fw-7 txt-blue wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
-                        Our <span class="fw-6 txt-orange">Services</span>
-                    </h2>
                     <h2 class="mb-3 fw-2 txt-blue wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                         <span>Port Traffic Management </span>
                     </h2>
