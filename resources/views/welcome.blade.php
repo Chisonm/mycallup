@@ -32,40 +32,19 @@
                             data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="150" data-rotatestart="0"
                             data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0"
                             data-offsetend="0 0" class="rev-slidebg" data-no-retina />
-                            <div >Truck market to  <br/> make haulage services more
-                                accessible</div>
-                                <div class="tp-caption medium_light_white tp-resizeme" id="slide-82-layer-3"
-                                data-blendmode=”color-dodge“ data-x="['center','center','center','center']"
-                                data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']"
-                                data-voffset="['-10','-10','-10','-10']" data-width="none" data-height="none"
-                                data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
-                                data-frames='[{"delay":500,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                                data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
-                                data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                                data-fontsize="['28','28','28','28']" data-lineheight="['34','34','34','50']">From Pickup to
-                                Destination</div>
-
-                        <div class="tp-caption tp-resizeme small_light_white " id="slide-82-layer-4"
-                            data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['60','60','60','60']"
-                            data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-                            data-responsive_offset="on"
-                            data-frames='[{"delay":600,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                            data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
-                            data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
-                            data-fontsize="['16','16','16','13']" data-lineheight="['30','30','30','20']">Find a carrier to
-                            move your freight with the help of our platform's over 20,000 registered trucks.</div>
+                            <div class="tp-caption tp-resizeme NotGeneric-Title" id="slide-82-layer-2" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-70','-70']" data-fontsize="['70','60','60','55']" data-lineheight="['80','70','70','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":200,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">MYCALLUP</div>
+                            <div class="tp-caption medium_light_white tp-resizeme" id="slide-82-layer-3" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-fontsize="['20','20','20','20']" data-lineheight="['34','34','34','50']">Explore our Tailored Smart Parking Solutions</div>
 
                         <div class="tp-caption tp-resizeme btn-theme bg-navy-blue rev-btn" id="slide-82-layer-5"
                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                            data-y="['middle','middle','middle','middle']" data-voffset="['140','140','140','140']"
+                            data-y="['middle','middle','middle','middle']" data-voffset="['100','100','100','100']"
                             data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
                             data-responsive_offset="on"
                             data-frames='[{"delay":750,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                             data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                             data-paddingright="[30,30,30,30]" data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[30,30,30,30]" data-fontsize="['14','14','14','14']"
-                            data-lineheight="['16','16','16','16']"><a class="text-white" href="{{ url('/services') }}">
+                            data-lineheight="['10','10','10','10']"><a class="text-white" href="{{ url('/services') }}">
                                 Learn More </a> <i class="icofont-rounded-right"></i>
                         </div>
                     </li>
@@ -82,45 +61,12 @@
                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                             data-bgparallax="10" class="rev-slidebg" data-no-retina>
 
-
-                        <div class="tp-caption NotGeneric-Title tp-resizeme" id="slide-3-layer-1" data-x="left"
-                            data-hoffset="60" data-y="center" data-voffset="-120"
-                            data-width="['auto','auto','auto','auto']" data-height="['auto','auto','auto','auto']"
-                            data-transform_idle="o:1;" data-fontsize="['70','70','70','45']"
-                            data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
-                            data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
-                            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="700" data-splitin="none"
-                            data-splitout="none" data-responsive_offset="on" style="z-index: 1; white-space: nowrap;">
-                            <span class="slider-small">Traffic management</span> <br>and administration using data
-                        </div>
-
-                        <div class="tp-caption NotGeneric-Title tp-resizeme" id="slide-3-layer-2" data-x="left"
-                            data-hoffset="60" data-y="center" data-voffset="10"
-                            data-width="['auto','auto','auto','auto']" data-height="['auto','auto','auto','auto']"
-                            data-transform_idle="o:1;"
-                            data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
-                            data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
-                            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="1400" data-splitin="none"
-                            data-splitout="none" data-responsive_offset="on"
-                            style="z-index: 2; white-space: nowrap; font-size: 18px; line-height: 30px;">Using automated
-                            traffic networks and data analytics, we produce insight for economic progress.
-                        </div>
+                        <div class="tp-caption tp-resizeme NotGeneric-Title" id="slide-82-layer-2" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-70','-70']" data-fontsize="['70','60','60','55']" data-lineheight="['80','70','70','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":200,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">Reshaping Maritime Logistics</div>
+                        <div class="tp-caption medium_light_white tp-resizeme" id="slide-82-layer-3" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-fontsize="['20','20','20','20']" data-lineheight="['34','34','34','50']">Explore our Tailored Smart Parking Solutions</div>
                         <a class="text-white" href="{{ url('/about-us') }}">
-                        <div class="tp-caption BigBold-Button rev-btn " id="slide-3-layer-3" data-x="left"
-                            data-hoffset="60" data-y="center" data-voffset="100" data-width="['auto']"
-                            data-height="['auto']" data-transform_idle="o:1;"
-                            data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
-                            data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(41, 46, 49, 0);bc:rgba(255, 255, 255, 1.00);cursor:pointer;"
-                            data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power3.easeInOut;"
-                            data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
-                            data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-start="2100" data-splitin="none"
-                            data-splitout="none"
-                            data-actions='[{"event":"click","action":"jumptoslide","slide":"next","delay":""}]'
-                            data-responsive_offset="on" data-responsive="off"
-                            style="z-index: 3; white-space: nowrap; font-weight: 800;background-color:rgba(41, 46, 49, 1.00);border-color:rgba(255, 255, 255, 0);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">
-                            READ MORE
-                        </div>
-                    </a>
+                            <div class="tp-caption tp-resizeme btn-theme bg-navy-blue rev-btn" id="slide-82-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['140','140','140','140']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":750,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[30,30,30,30]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[30,30,30,30]" data-fontsize="['14','14','14','14']" data-lineheight="['16','16','16','16']">Learn More<i class="icofont-rounded-right"></i>
+                            </div>
+                        </a>
                     </li>
                 </ul>
                 <div class="tp-bannertimer tp-bottom" style="height: 7px; background-color: rgba(255, 255, 255, 0.25);">
@@ -336,10 +282,7 @@
                         </h1>
                     </div>
 
-                    <p class="lead fw-5 txt-blue">As an innovative driver, we pride ourselves in building cutting edge technology
-                        and lifecycle solutions for the maritime logistics sector. We emphasize innovation
-                        in sustainable technology and services to help our clients continuously improve
-                        their environmental and economic performance. </p>
+                    <p class="lead fw-5 txt-blue">As an innovative driver, we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector. We emphasize innovation in sustainable technology and services to help our clients continuously improve their environmental and economic performance.</p>
                     <div class="mt-5">
                         <ul class="nav nav-pills theme-tabbing mb-3" id="pills-tab" role="tablist">
                             <li class="nav-item">
@@ -367,16 +310,12 @@
                             </div>
                             <div class="tab-pane fade" id="pills-vision" role="tabpanel"
                                 aria-labelledby="pills-profile-tab">
-                                <p> We envision safe and efficient traffic mobility where the road networks are not
-                                    congested, accident-free, and equally shared between all road users in Nigeria
-                                    </p>
+                                <p> We envision safe and efficient traffic mobility where the road networks are not congested, accident-free, and equally shared between all road users in Nigeria.</p>
                                 </p>
                             </div>
                             <div class="tab-pane fade show" id="pills-mission" role="tabpanel"
                                 aria-labelledby="pills-mission-tab">
-                                <p>To solve real life problems in transportation and mitigating gridlock by
-                                    introducing adaptive control approach to improve mobility and relieve
-                                    congestion in and around the ports </p>
+                                <p>To solve real life problems in transportation and mitigating gridlock by introducing adaptive control approach to improve mobility and relieve congestion in and around the ports.</p>
                             </div>
                         </div>
                     </div>

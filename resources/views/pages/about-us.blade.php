@@ -22,16 +22,9 @@
                     <h2 class="mb-4 fw-7 txt-blue">
                         About <span class="fw-6 txt-orange">Mycallup</span>
                     </h2>
-                    <p>As an innovative driver, we pride ourselves in building cutting edge technology
-                        and lifecycle solutions for the maritime logistics sector. We emphasize innovation
-                        in sustainable technology and services to help our clients continuously improve
-                        their environmental and economic performance.
-                    </p>
-                    <p> MyCallUp solutions optimize both port and terminal logistics processes and
-                        security matters as well. Through automation, we make the process more secure
-                        and therefore efficient and cost-effective.</p>
-                        <p> Whatever the scope of the project, we are always working at the frontier of new
-                            technology to optimize smart and sustainable mobility.</p>
+                    <p>As an innovative driver, we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector. We emphasize innovation in sustainable technology and services to help our clients continuously improve their environmental and economic performance.</p>
+                    <p>Call Up solutions optimize both port and terminal logistics processes and security matters as well. Through automation, we make the process more secure and therefore efficient and cost-effective.</p>
+                        <p>Whatever the scope of the project, we are always working at the frontier of new technology to optimize smart and sustainable mobility.</p>
                 </div>
                 <div class="col-md-6 wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">
                     <img src="{{ asset('assets/images/map-bg-orange.jpg') }}" alt="">
@@ -59,10 +52,8 @@
                                 <i class="icofont-architecture-alt"></i>
                             </div>
                             <div class="service-inner-content media-body">
-                                <h4 class="h4-md mb-3">Operators of Truck Parks</h4>
-                                <p>All government approved truck parks will be
-                                    onboarded onto the CallUp platform and signify real-time availability of parking
-                                    bays </p>
+                                <h4 class="h4-md mb-3">Truck Parks Operators</h4>
+                                <p>All government approved truck parks will be onboarded onto the Call Up platform and signify real-time availability of parking bays.</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -76,8 +67,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Truck Owners</h4>
-                                <p>Truck owners are expected to sign up on the CallUp platform and
-                                    register their trucks and drivers operating within the maritime logistics sector.  </p>
+                                <p>Truck Owners are expected to sign up on the Call Up platform and register their trucks and drivers operating within the maritime logistics sector.</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -91,9 +81,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Agents for clearing</h4>
-                                <p>Clearing agents are expected to register on the CallUp
-                                    Platform in order to have visibility of trucks within Parks to pick up their cleared
-                                    consignment </p>
+                                <p>Clearing Agents are expected to register on the Call Up platform in order to have visibility of trucks within Parks to pick up their cleared consignment.</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -108,9 +96,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Transport Unions</h4>
-                                <p>All registered unions within the maritime logistics sector will be
-                                    onboarded onto the CallUp platform and will ensure that all registered members
-                                    within each union adheres to all scheduling and maritime rules and regulations </p>
+                                <p>All registered Unions within the maritime logistics sector will be onboarded onto the Call Up platform and will ensure that all registered members within each union adheres to all scheduling and maritime rules and regulations.</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -125,8 +111,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Terminal Operators </h4>
-                                <p>All terminal operators will be onboarded onto the Call Up
-                                    application</p>
+                                <p>All terminal operators will be onboarded onto the Call Up application.</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -157,8 +142,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">FMCGs</h4>
-                                <p> These companies will be onboarded onto the CallUp platform so that
-                                    they can register their trucks and drivers to gain access into a port </p>
+                                <p>These companies will be onboarded onto the Call Up platform so that they can register their trucks and drivers to gain access into a port.</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>
@@ -172,8 +156,7 @@
                             </div>
                             <div class="service-inner-content media-body">
                                 <h4 class="h4-md mb-3">Drivers</h4>
-                                <p>Only registered drivers on the CallUp platform will be matched to an MSS
-                                    verified truck during the course of making a booking. </p>
+                                <p>Only registered drivers on the Call Up platform will be matched to an MSS verified truck during the course of making a booking.</p>
                                 <a href="#" class="btn-theme icon-left bg-navy-blue no-shadow align-self-center" href="#" role="button">Login</a>
                             </div>
                         </div>

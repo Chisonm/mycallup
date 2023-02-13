@@ -21,16 +21,14 @@
                         Our <span class="fw-6 txt-orange">Services</span>
                     </h2>
                     <h2 class="mb-3 fw-2 txt-blue wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
-                        <span>Traffic Management</span>
+                        <span>Port Traffic Management </span>
                     </h2>
                     <p class="wow fadeInLeft service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        We have built a state-of-the-art electronic call-up system primarily for managing
-                        traffic in and around all ports within Nigeria. This will help reduce travel time for
-                        all road users and enhance productivity and efficiency within the Maritime
-                        Logistics sector.
+                        We have built a state-of-the-art electronic call-up system primarily for managing traffic in and around all ports within Nigeria. This will help reduce travel time for all road users and enhance productivity and efficiency within the Maritime logistics sector.
                     </p>
                 </div>
                 <div class="col-md-6">
+                    <img src="{{ asset('assets/images/ptm.png') }}" alt="Port Traffic Management" class="img-fluid wow fadeInRight" data-wow-duration="0" data-wow-delay="0.2s">
                 </div>
             </div>
         </div>
@@ -39,17 +37,13 @@
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <h2 class="mb-4 fw-7 txt-blue wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">Port Traffic
-                        Management (Real-time Traffic Data & Predictive Insights)</h2>
+                    <h2 class="mb-4 fw-7 txt-blue wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">Real-time Traffic Data & Predictive Analytics</h2>
                     <p class="wow fadeInLeft service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        We have the capacity and capability to assist port authorities and terminal
-                        operators monitor truck movements and congestion. Equipped with real-time
-                        truck traffic data and predictive insights, terminal operators will be able to
-                        significantly reduce truck queues in and around their cargo terminals.
+                        We have the capacity and capability to assist port authorities and terminal operators monitor truck movements and congestion. Equipped with real-time truck traffic data and predictive insights, terminal operators will be able to significantly reduce truck queues in and around their cargo terminals. 
                     </p>
                 </div>
                 <div class="col-md-6">
-                    <img src="{{ asset('assets/images/why-choose-us.jpg') }}" alt=""
+                    <img src="{{ asset('assets/images/real-time-traffic.png') }}" alt=""
                         class="img-fluid wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">
                 </div>
             </div>
@@ -58,22 +52,19 @@
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="{{ asset('assets/images/pac.jpg') }}" alt="" class="img-fluid wow fadeInLeft"
+                    <img src="{{ asset('assets/images/asc.png') }}" alt="" class="img-fluid wow fadeInLeft"
                         data-wow-duration="0" data-wow-delay="0s">
                 </div>
                 <div class="col-md-6">
                     <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Access
                         Control</h2>
                     <p class="wow fadeInRight service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        Our electronic call-up system, enables the sequential flow of trucks from holding
-                        bays to terminals within the Ports. The integrated hardware and software capture
-                        all digital footprints and eliminate human interference thus promoting
-                        transparency.
+                        Our electronic call-up system, enables the sequential flow of trucks from holding bays to terminals within the Ports. The integrated hardware and software capture all digital footprints and eliminate human interference thus promoting transparency and security.
                     </p>
                 </div>
             </div>
     </section>
-    <section class="bg-white wide-tb-100">
+    {{-- <section class="bg-white wide-tb-100">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
@@ -94,21 +85,20 @@
                         data-wow-duration="0" data-wow-delay="0s">
                 </div>
             </div>
-    </section>
+    </section> --}}
 
     <section class="bg-white wide-tb-100">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="{{ asset('assets/images/why-choose-us.jpg') }}" alt=""
+                    <img src="{{ asset('assets/images/smp.png') }}" alt=""
                         class="img-fluid wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                 </div>
                 <div class="col-md-6">
                     <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Smart Packing
                     </h2>
                     <p class="wow fadeInRight service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        Through our smart parking app, transporters can see where they can park their
-                        trucks saving valuable time, money, fuel emissions and frustration
+                        Through our smart parking app, transporters have visibility of available bays within parks saving valuable time, money, fuel emissions and frustration. We can provide digital smart parking solutions tailored to your organizational needs and expectations.
                     </p>
                 </div>
             </div>
@@ -117,18 +107,13 @@
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <img src="{{ asset('assets/images/truck4.png') }}" alt="" class="img-fluid wow fadeInLeft"
+                    <img src="{{ asset('assets/images/tdpm.png') }}" alt="" class="img-fluid wow fadeInLeft"
                         data-wow-duration="0" data-wow-delay="0s">
                 </div>
                 <div class="col-md-6">
-                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Truck Parking
-                        Design & Management
-                    </h2>
+                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Truck Parking Design & Management</h2>
                     <p class="wow fadeInRight service-text" data-wow-duration="0" data-wow-delay="0.2s">
-                        Parking is not just about optimizing space utilization in a yard. Equally important is
-                        the traffic flow in & out of the truck park which could create bottlenecks. We
-                        can advise and design a site-specific and project intent-driven realistic,
-                        operationally workable solution for any government approved park.
+                        Parking is not just about optimizing space utilization in a yard. Equally important is the traffic flow in & out of a truck park which could create bottlenecks. We can advise and design a site-specific and project intent-driven realistic, operationally workable solution for any private or government approved park.
                     </p>
                 </div>
             </div>
