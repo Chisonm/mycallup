@@ -6,7 +6,7 @@
                 <div class="logo-footer">
                     <img src="{{ asset('assets/images/2.png') }}" height="85px" alt="logo">
                 </div>
-                <p>we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector.</p>
+                <p>We pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector.</p>
             </div>
 
 

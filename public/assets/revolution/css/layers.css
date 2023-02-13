@@ -21,6 +21,9 @@ website:   	http://www.themepunch.com
 {
 	color:#0084B4!important;
 }
+.service-contd {
+    margin-bottom: 40px;
+}
 
 .tp-caption.Twitter-Content a:hover
 {
@@ -5802,4 +5805,11 @@ tp-caption.Team-Thumb,
     border-width: 0px;
     border-radius: 0 0 0 0px;
     text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .service-contd{
+        margin-top: -80px;
+        margin-bottom: 20px;
+    }
 }

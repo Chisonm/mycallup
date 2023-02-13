@@ -10,8 +10,6 @@
         </div>
     </div>
 
-
-
     <div class="slider bg-navy-blue">
         <div id="rev_slider_1078_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="classic4export"
             data-source="gallery"
@@ -25,17 +23,17 @@
                         data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2=""
                         data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                         data-param9="" data-param10="" data-description=""
-                        data-slicey_shadow="0px 0px 50px 0px transparent">
+                        data-slicey_shadow="0px 0px 50px 0px transparent" style="top: 418">
 
                         <img src="{{ asset('assets/images/banner_slider.jpg') }}" alt=""
                             data-bgposition="center center" data-kenburns="on" data-duration="7000"
                             data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="150" data-rotatestart="0"
                             data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0"
                             data-offsetend="0 0" class="rev-slidebg" data-no-retina />
-                            <div class="tp-caption tp-resizeme NotGeneric-Title" id="slide-82-layer-2" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-70','-70']" data-fontsize="['70','60','60','55']" data-lineheight="['80','70','70','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":200,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">MYCALLUP</div>
-                            <div class="tp-caption medium_light_white tp-resizeme" id="slide-82-layer-3" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','-10','-10']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":500,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" data-fontsize="['20','20','20','20']" data-lineheight="['34','34','34','50']">Explore our Tailored Smart Parking Solutions</div>
 
-                        <div class="tp-caption tp-resizeme btn-theme bg-navy-blue rev-btn" id="slide-82-layer-5"
+                        <div class="tp-caption tp-resizeme NotGeneric-Title" id="slide-82-layer-2" data-blendmode=”color-dodge“ data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-70','-70']" data-fontsize="['70','60','60','55']" data-lineheight="['80','70','70','40']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"delay":200,"speed":1000,"sfx_effect":"blockfromleft","sfxcolor":"#ffffff","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">MYCALLUP</div>
+
+                        <div class="tp-caption tp-resizeme btn-theme bg-navy-blue rev-btn top-5" id="slide-82-layer-5"
                             data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                             data-y="['middle','middle','middle','middle']" data-voffset="['100','100','100','100']"
                             data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
@@ -44,8 +42,7 @@
                             data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
                             data-paddingright="[30,30,30,30]" data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[30,30,30,30]" data-fontsize="['14','14','14','14']"
-                            data-lineheight="['10','10','10','10']"><a class="text-white" href="{{ url('/services') }}">
-                                Learn More </a> <i class="icofont-rounded-right"></i>
+                            data-lineheight="['10','10','10','10']"><a class="text-white" href="{{ url('/services') }}"> Learn More </a> <i class="icofont-rounded-right"></i>
                         </div>
                     </li>
 
@@ -155,7 +152,7 @@
     <section class="bg-white wide-tb-100">
         <div class="container pos-rel">
             <div class="row">
-                <div class="col-md-12 col-lg-6">
+                <div class="col-md-12 col-lg-5">
                     <h2 class="mb-4 fw-7 txt-blue">
                         Our <span class="fw-6 txt-orange">Services</span>
                     </h2>
@@ -168,57 +165,65 @@
 
                 <div class="w-100 spacer-50 d-none d-md-block d-lg-none d-sm-none"></div>
 
-                <div class="col-md-12 col-lg-6">
+                <div class="col-md-12 col-lg-7">
                     <div class="row">
-
-                        <div class="col-12 col-md-6">
-                            <div class="icon-box-6">
-                                <i class="icofont-traffic-light"></i>
-                                <h3 class="h3-xs txt-blue"> Traffic Management</h3>
-                                <p>Our system allows for seamless movement from one terminal to another.</p>
-                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
-                            </div>
-                        </div>
-
-
                         <div class="col-12 col-md-6">
                             <div class="icon-box-6">
                                 <i class="icofont-live-support"></i>
                                 <h3 class="h3-xs txt-blue">Access Control</h3>
-                                <p>we offer planned access to the ports and associated terminals.</p>
-                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                                <p>Our electronic call-up system, enables the sequential flow of trucks from holding bays to terminals within the Ports.</p>
+                                <a href="{{ url('services/#Access-Control') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
                         </div>
-
-
-                        <div class="w-100 spacer-30 d-none d-md-block d-lg-block d-sm-none"></div>
-
-
-                        <div class="col-12 col-md-6">
-                            <div class="icon-box-6">
-                                <i class="icofont-tow-truck"></i>
-                                <h3 class="h3-xs txt-blue">Smart Packing</h3>
-                                <p>We also provide guidance through our smart parking app.</p>
-                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
-                            </div>
-                        </div>
-
 
                         <div class="col-12 col-md-6">
                             <div class="icon-box-6">
                                 <i class="icofont-delivery-time"></i>
-                                <h3 class="h3-xs txt-blue">Smart Packing</h3>
-                                <p>we create smart parks that deploy essential physical and electronic infrastructure.</p>
-                                <a href="{{ url('services') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                                <h3 class="h3-xs txt-blue">Truck Parking Design & Management</h3>
+                                <p>Parking is not just about optimizing space utilization in a yard. Equally important is the traffic flow in & out of a truck park which could create bottlenecks.</p>
+                                <a href="{{ url('services/#Truck-Parking') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
                             </div>
                         </div>
-
+                        <div class="w-100 spacer-30 d-none d-md-block d-lg-block d-sm-none"></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    {{-- services contd --}}
+    <section class="service-contd">
+        <div class="container">
+            <div class="col-md-12 col-lg-12">
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <div class="icon-box-6">
+                            <i class="icofont-traffic-light"></i>
+                            <h3 class="h3-xs txt-blue">Traffic Management</h3>
+                            <p>We have built a state-of-the-art electronic call-up system primarily for managing traffic in and around all ports within Nigeria.</p>
+                            <a href="{{ url('services/#Traffic-Management') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                        </div>
+                    </div>
 
+                    <div class="col-12 col-md-4">
+                        <div class="icon-box-6">
+                            <i class="icofont-traffic-light"></i>
+                            <h3 class="h3-xs txt-blue">Real-time Traffic Data & Predictive Analytics </h3>
+                            <p>We have the capacity and capability to assist port authorities and terminal operators monitor truck movements and congestion.</p>
+                            <a href="{{ url('services/#Real-time') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <div class="icon-box-6">
+                            <i class="icofont-tow-truck"></i>
+                            <h3 class="h3-xs txt-blue">Smart Packing</h3>
+                            <p>Through our smart parking app, transporters have visibility of available bays within parks saving valuable time, money, fuel emissions and frustration.</p>
+                            <a href="{{ url('services/#smartparking') }}" class="btn-arrow bg-navy-blue"><i class="icofont-swoosh-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     {{-- get in touch area --}}
     <section class="wide-tb-80 bg-navy-blue callout-style-1 wow fadeInUp" data-wow-duration="0" data-wow-delay="0s">
@@ -242,7 +247,7 @@
     </section>
 
     {{-- tracking area --}}
-    <section class="wide-tb-100 pb-0">
+    {{-- <section class="wide-tb-100 pb-0">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 ms-lg-auto pos-rel col-md-12">
@@ -267,7 +272,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     {{-- about us area --}}
     <section class="bg-light-gray wide-tb-100">
@@ -281,9 +286,6 @@
                             About Us
                         </h1>
                     </div>
-
-                    <p class="lead fw-5 txt-blue">we are always working at the frontier of new technology to optimize smart and sustainable mobility. 
-                    </p>
                     <div class="mt-5">
                         <ul class="nav nav-pills theme-tabbing mb-3" id="pills-tab" role="tablist">
                             <li class="nav-item">
@@ -295,14 +297,16 @@
                                     role="tab" aria-controls="pills-profile" aria-selected="false">mission</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ url('/about-us') }}">About Us</a>
+                                <a class="nav-link" class="nav-link" id="pills-about-us" data-bs-toggle="pill" href="#pills-about"
+                                role="tab" aria-controls="pills-about" aria-selected="true">About Us</a>
                             </li>
                         </ul>
                         <div class="tab-content theme-tabbing" id="pills-tabContent">
-                            <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
+                            <div class="tab-pane fade show active" id="pills-about" role="tabpanel"
                                 aria-labelledby="pills-home-tab">
-                                <p>As an innovative driver, we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector. We emphasize innovation in sustainable technology and services to help our clients continuously improve their environmental and economic performance</p>
+                                <p>As an innovative driver, we pride ourselves in building cutting edge technology and lifecycle solutions for the maritime logistics sector. We emphasize innovation in sustainable technology and services to help our clients continuously improve their environmental and economic performance.</p>
                                 <p>Call Up solutions optimize both port and terminal logistics processes and security matters as well. Through automation, we make the process more secure and therefore efficient and cost-effective.</p>
+                                <p>Whatever the scope of the project, we are always working at the frontier of new technology to optimize smart and sustainable mobility.</p>
                             </div>
                             <div class="tab-pane fade" id="pills-vision" role="tabpanel"
                                 aria-labelledby="pills-profile-tab">
@@ -515,7 +519,7 @@
         </div>
     </section> --}}
 
-    <section class="wide-tb-70 bg-light-gray pb-5 footer-subscribe" id="subscrib">
+    <section class="wide-tb-70 bg-light-gray pb-5 footer-subscribe mb-4" id="subscrib">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 d-flex col-md-12 col-lg-6">

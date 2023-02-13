@@ -10,7 +10,7 @@
             <h1>OUR SERVICES</h1>
         </div>
     </div>
-    <section class="wide-tb-80 bg-fixed what-we-offer">
+    <section class="wide-tb-80 bg-fixed what-we-offer" id="Traffic-Management">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
@@ -27,7 +27,7 @@
             </div>
         </div>
     </section>
-    <section class="bg-white wide-tb-100">
+    <section class="bg-white wide-tb-100" id="Real-time">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
@@ -42,7 +42,7 @@
                 </div>
             </div>
     </section>
-    <section class="bg-white wide-tb-100">
+    <section class="bg-white wide-tb-100" id="Access-Control">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
@@ -81,7 +81,7 @@
             </div>
     </section> --}}
 
-    <section class="bg-white wide-tb-100">
+    <section class="bg-white wide-tb-100" id="smartparking">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
@@ -89,7 +89,7 @@
                         class="img-fluid wow fadeInLeft" data-wow-duration="0" data-wow-delay="0s">
                 </div>
                 <div class="col-md-6">
-                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Smart Packing
+                    <h2 class="mb-4 fw-7 txt-blue wow fadeInRight" data-wow-duration="0" data-wow-delay="0s">Smart Parking
                     </h2>
                     <p class="wow fadeInRight service-text" data-wow-duration="0" data-wow-delay="0.2s">
                         Through our smart parking app, transporters have visibility of available bays within parks saving valuable time, money, fuel emissions and frustration. We can provide digital smart parking solutions tailored to your organizational needs and expectations.
@@ -97,7 +97,7 @@
                 </div>
             </div>
     </section>
-    <section class="bg-white wide-tb-100">
+    <section class="bg-white wide-tb-100" id="Truck-Parking">
         <div class="container pos-rel">
             <div class="row align-items-center">
                 <div class="col-md-6">
