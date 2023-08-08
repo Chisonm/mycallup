@@ -40,7 +40,7 @@
                     <div class="media mb-3">
                         <i class="icofont-smart-phone me-3"></i>
                         <div class="media-body">
-                            <div>+234 809 945 3540</div>
+                            <div>+234 0703 410 6000</div>
                         </div>
                     </div>
                     <div class="media mb-3">

@@ -28,7 +28,7 @@
                                 Lagos.</span>
                         </div>
                         <div class="d-flex align-items-start items">
-                            <i class="icofont-phone"></i> <span>+234 809 945 3540</span>
+                            <i class="icofont-phone"></i> <span>+234 0703 410 6000</span>
                         </div>
                         <div class="text-nowrap d-flex align-items-start items">
                             <i class="icofont-email"></i> <a href="mailto:info@mycallup.com"><span class="__cf_email__"
