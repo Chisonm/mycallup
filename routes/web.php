@@ -23,3 +23,7 @@ Route::get('/contact-us', [PagesController::class, 'contactPage']);
 // Route::get('/products', [PagesController::class, 'productsPage']);
 // Route::get('/media', [PagesController::class, 'mediaPage']);
 Route::post('/submitContact', [ContactController::class, 'submitContactForm'])->name('submitContact');
+
+Route::get('/app', function () {
+    return redirect('https://app.mycallup.com/');
+});
