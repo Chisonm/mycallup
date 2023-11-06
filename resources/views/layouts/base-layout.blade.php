@@ -188,6 +188,28 @@
 
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993">
     </script>
+
+<script type="text/javascript">
+    (function(d, src, c) {
+        var t = d.scripts[d.scripts.length - 1],
+            s = d.createElement('script');
+        s.id = 'la_x2s6df8d';
+        s.defer = true;
+        s.src = src;
+        s.onload = s.onreadystatechange = function() {
+            var rs = this.readyState;
+            if (rs && (rs != 'complete') && (rs != 'loaded')) {
+                return;
+            }
+            c(this);
+        };
+        t.parentElement.insertBefore(s, t.nextSibling);
+    })(document,
+        'https://mycallup.ladesk.com/scripts/track.js',
+        function(e) {
+            LiveAgent.createButton('2sqshnlt', e);
+        });
+</script>
 </body>
 
 </html>
