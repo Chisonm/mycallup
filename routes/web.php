@@ -1,8 +1,9 @@
 <?php
 
-use App\Http\Controllers\web\ContactController;
-use App\Http\Controllers\web\PagesController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\web\PagesController;
+use App\Http\Controllers\web\ContactController;
+use App\Http\Controllers\PrivacyPolicyController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,6 +24,7 @@ Route::get('/contact-us', [PagesController::class, 'contactPage']);
 // Route::get('/products', [PagesController::class, 'productsPage']);
 // Route::get('/media', [PagesController::class, 'mediaPage']);
 Route::post('/submitContact', [ContactController::class, 'submitContactForm'])->name('submitContact');
+Route::get('privacy-policy', [PrivacyPolicyController::class, 'privacyPolicyPage']);
 
 Route::get('/app', function () {
     return redirect('https://app.mycallup.com/');

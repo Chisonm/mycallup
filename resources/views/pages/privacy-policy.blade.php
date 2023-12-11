@@ -1,0 +1,12 @@
+@extends('layouts.base-layout')
+
+@section('content')
+<section class="wide-tb-80">
+    <div class="container pos-rel mt-5">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nihil iste, placeat doloremque hic delectus voluptatem ullam et labore dignissimos id sed animi ducimus veritatis corrupti repellat. Autem placeat vitae magnam sint nemo a, voluptatem rerum eius qui exercitationem! Fugiat tempora reprehenderit culpa rem sit totam! Et perferendis ipsa laboriosam non, voluptates praesentium quis unde rem optio aliquid! Dolorum quae voluptates magni laudantium accusantium. Quisquam, repellendus. Sapiente vero officiis perspiciatis. Labore facere esse qui voluptatum ea sint quam consectetur dolore cupiditate, aliquam totam fugit explicabo ipsum nihil fugiat nemo quia debitis nisi magnam odit. Explicabo quidem nostrum magnam vero ut!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nihil iste, placeat doloremque hic delectus voluptatem ullam et labore dignissimos id sed animi ducimus veritatis corrupti repellat. Autem placeat vitae magnam sint nemo a, voluptatem rerum eius qui exercitationem! Fugiat tempora reprehenderit culpa rem sit totam! Et perferendis ipsa laboriosam non, voluptates praesentium quis unde rem optio aliquid! Dolorum quae voluptates magni laudantium accusantium. Quisquam, repellendus. Sapiente vero officiis perspiciatis. Labore facere esse qui voluptatum ea sint quam consectetur dolore cupiditate, aliquam totam fugit explicabo ipsum nihil fugiat nemo quia debitis nisi magnam odit. Explicabo quidem nostrum magnam vero ut!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nihil iste, placeat doloremque hic delectus voluptatem ullam et labore dignissimos id sed animi ducimus veritatis corrupti repellat. Autem placeat vitae magnam sint nemo a, voluptatem rerum eius qui exercitationem! Fugiat tempora reprehenderit culpa rem sit totam! Et perferendis ipsa laboriosam non, voluptates praesentium quis unde rem optio aliquid! Dolorum quae voluptates magni laudantium accusantium. Quisquam, repellendus. Sapiente vero officiis perspiciatis. Labore facere esse qui voluptatum ea sint quam consectetur dolore cupiditate, aliquam totam fugit explicabo ipsum nihil fugiat nemo quia debitis nisi magnam odit. Explicabo quidem nostrum magnam vero ut!</p>
+    </div>
+</section>
+
+@endsection
