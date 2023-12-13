@@ -2,7 +2,8 @@
 
 @section('content')
 <section class="wide-tb-80">
-    <div class="container pos-rel mt-5">
+    <div class="container pos-rel mt-2">
+        <p><b>Last Updated On:</b> 13 December 2023</p>
         <h1>Privacy Policy for Callup App</h1>
         <p>Welcome to Callup! This Privacy Policy outlines the principles and practices governing the collection, use, and protection of your personal information when you engage with our web and mobile applications (referred to as the "Service"). Your privacy is of the utmost importance to us, and we are committed to ensuring the security and confidentiality of the information you provide. </p>
         <p>By accessing and using the service, you acknowledge that you have read, understood, and agreed to the terms of this Privacy Policy. If you do not agree with any aspect of this policy, please refrain from using the service. </p>
