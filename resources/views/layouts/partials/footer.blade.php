@@ -78,7 +78,7 @@
         <div class="container">
             <div class="row text-md-start text-center">
                 <div class="col-sm-12 col-md-6 copyright-links">
-                    <a href="#">Privacy Policy</a> <span>|</span> <a href="{{ url('/contact-us') }}">Contact</a> <span>|</span> <a
+                    <a href="/privacy-policy">Privacy Policy</a> <span>|</span> <a href="{{ url('/contact-us') }}">Contact</a> <span>|</span> <a
                         href="{{ url('/faqs') }}">Faq's</a>
                 </div>
                 <div class="col-sm-12 col-md-6 text-md-end text-center">
